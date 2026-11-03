@@ -4,7 +4,7 @@ A powerful web screenshotting tool for reconnaissance and security research.
 WebShot is a Python-based web screenshotting tool built for penetration testers, bug bounty hunters, and security researchers to capture and visualize web assets efficiently.
 
 # 🛠️ Installation
-git clone https://github.com/mayankjangra2006/WebShot.git
+git clone https://github.com/mayankjangra2006/WebShot.git<br>
 cd WebShot
 
 # Setup
