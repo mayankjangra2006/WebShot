@@ -28,6 +28,8 @@ https://github.com
 # Run WebShot:
 python3 webshot.py -i targets.txt -o results/
   "Replace the example command with the actual argument supported by your script."
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/beeb54ef-0e36-47bc-bd87-3006e958c3e2" />
+
 
 # 📸 Screenshots
 <img width="525" height="304" alt="image" src="https://github.com/user-attachments/assets/d5267c66-6f5d-4535-8c4c-67ae804b47b8" />
