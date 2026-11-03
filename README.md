@@ -31,6 +31,7 @@ python3 webshot.py -i targets.txt -o results/
 
 # 📸 Screenshots
 <img width="525" height="304" alt="image" src="https://github.com/user-attachments/assets/d5267c66-6f5d-4535-8c4c-67ae804b47b8" />
+
 -> After completion, a folder with the name you selected will be created.
 <img width="941" height="322" alt="image" src="https://github.com/user-attachments/assets/6c1912ed-e67b-4c4c-b500-a1465e640776" />
 -> Open report.html in your browser
