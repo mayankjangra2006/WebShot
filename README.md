@@ -39,7 +39,7 @@ python3 webshot.py -i targets.txt -o results/
 -> You will find all your screenshots with status code , image and clickable url
 
 # 👨‍💻 Author
-Created by Mayank Jangra
+Created by Mayank Jangra<br>
 If you find WebShot useful, consider giving the repository a ⭐
 
 # 📄 License
