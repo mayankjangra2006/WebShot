@@ -20,10 +20,10 @@ If the above command does not work, try:
 # 🚀 Usage
 Create a text file containing your target URLs or hosts.
 
-Example: targets.txt
-https://example.com
-https://google.com
-https://github.com
+Example: targets.txt<br>
+https://example.com<br>
+https://google.com<br>
+https://github.com<br>
 
 # Run WebShot:
 python3 webshot.py -i targets.txt -o results/ <br>
